@@ -1,0 +1,15 @@
+Enviroment: Windows 10 Pro x64 v 10.0.18363, Google Chrome v 99.0.4844.51 x64
+
+Nr: 1
+Component: MINICART
+Issue Type: Functional
+Issue Title: View Cart button leads to the 'Oops! Something went wrong!' page instead of Cart page
+URL: https://qatest-dev.indvp.com/fluted-zinc-planters-set-of-two
+Steps To Reproduce:
+  1. Open PDP
+  2. Add product to the cart
+  3. Click on Cart icon
+  4. Click on View Cart button
+Expected result: Cart page is open
+Actual result: Empty page with 'Oops! Something went wrong!' message is open
+Attachments: https://watch.screencastify.com/v/8goYEbUDLCmK8lufe1de
